@@ -21,11 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/arsshuz/leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/arsshuz/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/arsshuz/leetcode/tree/master/3194-find-words-containing-character) |
+| [3701-compute-alternating-sum](https://github.com/arsshuz/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arsshuz/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/arsshuz/leetcode/tree/master/2058-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/arsshuz/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
