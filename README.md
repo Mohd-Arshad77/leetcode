@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arsshuz/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/arsshuz/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/arsshuz/leetcode/tree/master/3194-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arsshuz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arsshuz/leetcode/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/arsshuz/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arsshuz/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arsshuz/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
